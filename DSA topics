@@ -1,0 +1,78 @@
+https://www.geeksforgeeks.org/dsa-in-python-online-course-for-beginners/
+
+
+Data Structure (Basics)
+1. Analysis of Algorithms – Analysis of Algorithms (Background), Asymptotic Analysis, Big O Notation, Omega Notation, Theta Notation, Analysis of Common Loops, and much more. 
+
+2. Mathematics – Python DSA – Count Digits, Palindrome Number, Factorial of a Number, Trailing Zeros in Factorial, GCD, and HCF of two numbers, LCM of two numbers, and much more. 
+
+3. List – List (Dynamic Sized Array) Introduction, Working on List in Python, Average or Mean of a List, Separate Even and Odd, Get Similar Elements, Slicing (List, Tuple, and String), and much more.
+
+4. Recursion – Application of Recursion, Writing Base Cases in Recursion, Tail Recursion, and much more. 
+
+5. Searching – Binary Search in Python, Recursive Binary Search in Python, Analysis of Binary Search, Index of First Occurrence in a sorted array, Index of Last Occurrence, and much more.
+
+6. Sorting – Sorting in Python, List Sort in Python, Sorted in Python, Stability in Sorting Algorithm, Bubble Sort, Selection Sort, and much more.
+
+7. Hashing – Introduction to Hashing, Hashing Application, Direct Address Table, Hashing Functions, Collision Handling, Chaining, Implementation of Chaining in Python, and much more.
+
+8. String – Strings in Python, Escape Sequences and Raw Strings, Formatted String in Python, String Comparison in Python, and much more.
+
+9. Linked List – Video – Problems with Array Data Structure, Linked List Introduction in Python, Simple Linked List Implementation in Python, Applications of Linked List, and much more.
+
+10. Circular Linked List – Circular Linked List in Python, Circular Linked List (Advantages & Disadvantages), Circular Linked List Traversal, Insert at the Beginning of Circular Linked List, and much more.
+
+11. Doubly Linked List – Doubly Linked List in Python, Singly Vs Doubly Linked List (Advantages & Disadvantages), Insert at the Beginning of DLL in Python, and much more.
+
+12. Stack – Stack Data Structure, Stack in Python, Linked List Implementation of Stack in Python, Stack Applications, and much more.
+
+13. Queue – Queue in Python, Queue in Data Structure, Application of Queue Data Structure, Implementation of Queue using Array, and much more.
+
+14. Dequeue – Introduction, Deque Applications, Deque in Python, List Implementation of Deque in Python, and much more.
+
+15. Tree – Tree Data Structure, Application of Tree, Binary Tree in Python, Tree Traversal, Inorder Traversal in Python, Preorder Traversal in Python, Postorder Traversal in Python, and much more.
+
+16. Binary Search Tree – Binary Search Tree (Background), Binary Search Tree (Introduction), Search in BST in Python, BST Insert in Python, BST Delete in Python, Floor in BST (Problem and Solution Idea), and much more.
+
+17. Heap – Binary Heap Introduction, Heap Python Implementation (Introduction), Binary Heap Insert, Binary Heap (Extract min and Heapify), Decrease Key and Delete Operations, and much more.
+
+Data Structure (Advanced)
+18. Bit Magic – Bitwise Operator in Python (Part 1,2), Check whether the Kth bit is set or not, Count Set Bits, Power of Two, and much more.
+
+19. List – Left Rotate by d Places, Maximum difference, Stock Buy & Sell Part 2, Trapping Rainwater, Maximum Consecutive 1s, Longest even odd subarray, and much more.
+
+20. Recursion – Subset of a given string, Printing all Permutations, Tower of Hanoi in Python, Josephus Problem in Python, Subset sum problem, and much more.
+
+21. Searching – Search in Sorted Rotated Array, Median of two sorted arrays, Repeating Elements (Part 1,2), Allocate Minimum Pages (Naive Method), and much more.
+
+22. Sorting – Tail Call Elimination in Quick Sort, Kth Smallest, Minimum Difference in an Array, Chocolate Distribution Problem, Sort an array with two types of elements, and much more. 
+
+23. Hashing – Intersection of two arrays, Union of two unsorted arrays, Pair with given sum in an unsorted array, Subarray with 0 sums in Python, Check for Palindrome Permutation, and much more.
+
+24. String – Overview of Pattern Searching, Pattern Searching in Python, Naive Pattern Searching, Improved Naive Pattern Searching for Distinct, Rabin Karp Algorithm, and much more.
+
+25. Linked List – Reverse a linked list in groups of size k, Detect loop using Floyd’s Cycle Detection Algorithm, Detect and remove loop in Linked List, and much more.
+
+26. Stack – Two stacks in an array, K stacks in an array, Previous Greater Elements, Next Greater Elements, Stock span problem, and much more. 
+
+27. Queue – Queue and Deque, Queue implementation using circular list, Implementing stack using a queue, Reversing a queue, Generate numbers with given digits, Design a data structure with min/max operations, and much more.
+
+28. Tree – Level Order Traversal by Line (Part 1,2), Check for Balanced Binary Tree, Maximum Width of Binary Tree, Convert Binary Tree to Doubly Linked List, Construct Binary Tree from Inorder and Preorder, and much more.
+
+29. Binary Search Tree – Ceiling on the left side in an array, Find Kth Smallest in BST,  Check for BST, Fix BST with Two Nodes Swapped, Pair Sum with given BST, and much more.
+
+30. Heap – Sort K Sorted Array, Purchase Maximum Items, K Largest Elements, K Closest Elements, Merge K Sorted Arrays, and much more.
+
+31. Graph – Introduction, Graph Representation (Adjacency Matrix), Graph Representation (Adjacency List), Graph Adjacency List Representation in Python, Adjacency Matrix and List Comparison, and much more. 
+
+32. Greedy – Introduction to Greedy Algorithm, Activity Selection Problem, Activity Selection, Fractional Knapsack, and much more.
+
+33. Backtracking – Concept of backtracking, Rat in a Maze, N Queen Problem, and much more.
+
+34. Dynamic Programming – Introduction to DP, Memoization, Tabulation, Longest Common Subsequence (Part 1,2), Variation of LCS, and much more.
+
+35. Trie – Introduction, Representation, Search Insert, Delete, and much more.
+
+36. Segment and Binary Indexed Trees – Introduction, Segment Tree, Range Query, Update Query, Binary Indexed Tree (Introduction), and much more.
+
+37. Disjoint Set – Introduction, Find and Union Operator, Union by Rank, Kruskal’s Algorithm, and much more.
